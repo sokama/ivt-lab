@@ -20,6 +20,9 @@ public class GT4500 implements SpaceShip {
     return false;
   }
 
+
+//important feature omg so good implementation wow master hacker spotted
+
   /**
   * Tries to fire the torpedo stores of the ship.
   *
